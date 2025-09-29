@@ -37,4 +37,19 @@ The app demonstrates:
 - **GitHub** – Public repo with README & screenshots
 
 ---
+<img width="488" height="828" alt="image" src="https://github.com/user-attachments/assets/16d6c18a-aab9-4d35-a209-6907d6f10f47" />
+<img width="486" height="852" alt="image" src="https://github.com/user-attachments/assets/aa534a90-888e-452e-9c76-f91b0ae520e1" />
+<img width="478" height="838" alt="image" src="https://github.com/user-attachments/assets/c2a52585-dce7-43df-a66b-078a93380fa3" />
+<img width="486" height="795" alt="image" src="https://github.com/user-attachments/assets/915e5e64-c049-46c1-9118-abdfe7305801" />
+<img width="467" height="740" alt="image" src="https://github.com/user-attachments/assets/6e264c34-2478-45b0-9f61-56c37f6cbf67" />
+<img width="494" height="863" alt="image" src="https://github.com/user-attachments/assets/86f9dbe4-f1e5-4391-9d66-8b8dcf038559" />
+<img width="490" height="628" alt="image" src="https://github.com/user-attachments/assets/6fee9bbf-b7ff-49a6-9e64-76c625cf4ee9" />
+<img width="486" height="712" alt="image" src="https://github.com/user-attachments/assets/afd62b9f-b7f1-4edb-89e6-b866d2894783" />
+
+
+
+
+
+
+
 
